@@ -1,0 +1,22 @@
+.container span{
+    color: rgb(79, 172, 164);
+    font-weight: 700;
+}
+.container h2{
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
+@media only screen and (max-width:688px) {
+    .doctor-container{
+        /* grid-template-columns: repeat(1, 1fr); */
+      display: flex;
+      flex-direction: column;
+      
+    }
+}
+@media only screen and (min-width:689px) and (max-width:991px) {
+    .doctor-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

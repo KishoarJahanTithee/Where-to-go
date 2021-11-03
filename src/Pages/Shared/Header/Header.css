@@ -1,0 +1,13 @@
+.logo{
+    color: rgb(206, 14, 126);
+    font-weight: 800;
+}
+.questionMark{
+    color: rgb(206, 14, 126);
+    font-weight: 800;
+    line-height: 50px;
+    font-size: 5rem;
+}
+.menuBar{
+    color: tomato;
+}

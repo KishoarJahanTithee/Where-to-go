@@ -1,0 +1,17 @@
+.footer{
+    background-color: rgba(0, 0, 0, 0.479);
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    margin-top: 50px;
+}
+.footer small{
+    font-size: 0.7rem;
+}
+.footer h3{
+    color: rgb(206, 14, 126);
+    font-weight: 700;
+}
+.footer p{
+    font-size: 0.8rem;
+}
